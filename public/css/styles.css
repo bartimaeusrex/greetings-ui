@@ -13,3 +13,12 @@
 .subtitle {
   font-size: 20px;
 }
+
+.greet {
+  font-style: italic;
+}
+
+input {
+  padding: 5px;
+  margin:10px;
+}
